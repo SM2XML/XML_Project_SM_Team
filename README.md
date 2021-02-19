@@ -1,0 +1,2 @@
+# XML_Project_SM_Team
+Ce projet a été réalisé par EL AAKKOUCHI SALMA et AL YOUNSSI MOUNA. Nous avons utilisé toutes nos connaissances et notre formation en XML pour mener à bien ce projet. dans le premier cas, nous allons créer une API avec PHP (LARAVEL framwork) pour transformer les fichiers CSV en fichiers XML. deuxièmement, nous générerons des pages en HTML en utilisant XSLT troisièmement, créer de nombreux PDF différents à l'aide de XSL-FO, X-path et X-Query et enfin, s'exercer davantage à X-path et X-Query. 
