@@ -7,7 +7,7 @@ deuxièmement, nous allons générer des pages en HTML en utilisant XSLT
 troisièmement, créez de nombreux PDF différents à l'aide de XSL-FO, X-path et X-Query
 et enfin, pratiquez plus X-path et X-Query.
 
-===================================================
+======================================================================================================================================================
 Pour tester les API:
  * Commencez par créer un nouveau fichier dans votre chambre (nommez-le comme vous le souhaitez)
 * Dans votre ligne de commande (cmd), accédez à ce fichier que vous avez créé: cd filename
