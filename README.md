@@ -1,4 +1,5 @@
 # ensat_xml_project
+# PS : assurez-vous que vous êtes dans la branche Master !! 
 
 *Ce projet a été réalisé par EL AAKKOUCHI SALMA et AL YOUNSSI MOUNA _ GINF2
 nous avons utilisé toutes nos connaissances et notre formation en XML pour mener à bien ce projet.
